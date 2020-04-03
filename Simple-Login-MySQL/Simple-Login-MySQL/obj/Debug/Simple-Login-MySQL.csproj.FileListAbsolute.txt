@@ -1,0 +1,11 @@
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\bin\Debug\Simple-Login-MySQL.exe.config
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\bin\Debug\Simple-Login-MySQL.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\bin\Debug\Simple-Login-MySQL.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple-Login-MySQL.csprojResolveAssemblyReference.cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple_Login_MySQL.Form1.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple_Login_MySQL.Properties.Resources.resources
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple-Login-MySQL.csproj.GenerateResource.Cache
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple-Login-MySQL.exe
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple-Login-MySQL.pdb
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\bin\Debug\MySql.Data.dll
+c:\users\gary lloyd senoc\documents\visual studio 2013\Projects\Simple-Login-MySQL\Simple-Login-MySQL\obj\Debug\Simple_Login_MySQL.welcome.resources
